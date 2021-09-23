@@ -24,5 +24,5 @@
 
 - 📫 You can reach me by linkedin or by the e-mail: jonatha.psilveira@gmail.com. Feel free to send me a hello =)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnbass&layout=compact&theme=merko&locale=pt-Br)](https://github.com/johnnbass/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnbass&langs_count=10&layout=compact&theme=merko&locale=pt-Br)](https://github.com/johnnbass/github-readme-stats)
 [![Johnnbass's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnbass&count_private=true&theme=merko&show_icons=true&locale=pt-Br)](https://github.com/Johnnbass/github-readme-stats)
