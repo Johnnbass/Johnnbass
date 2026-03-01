@@ -65,9 +65,6 @@ Llámame para saludarme, aunque sea para charlar :D
 </p>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnbass&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/johnnbass/github-readme-stats)
-[![Johnnbass's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnbass&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/Johnnbass/github-readme-stats)
-
 ## 🧰 Linguagens e Ferramentas | Languages and Tools | Lenguajes y Herramientas:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
