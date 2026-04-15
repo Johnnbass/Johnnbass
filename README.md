@@ -1,5 +1,5 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Johnnbass)](https://github.com/Johnnbass)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatha-silveira-5a2a8129/)](https://www.linkedin.com/in/jonatha-silveira-5a2a8129/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatha-silveira/)](https://www.linkedin.com/in/jonatha-silveira/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Johnnbass.Johnnbass)
 
 ### Hi there 👋, I'm a Software Developer transitioning into the AI space.
